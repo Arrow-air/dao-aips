@@ -35,7 +35,7 @@ AIPs are separated into a different types.
 
 **Obsolete** - An Obsolete AIP has been replaced, superseded or removed.
 
-![AIP Process Diagram](../assets/about-aips/AIP-process-diagram.png).
+![AIP Process Diagram](/assets/about-AIPs/AIP-process-diagram.png).
 
 Only Final and Living AIPs are eligible for official adoption.
 

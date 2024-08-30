@@ -1,0 +1,8 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "dao.arrowair.com/t/aip-###"
+    }
+  ]
+}
+

@@ -3,9 +3,9 @@
 Arrow Improvement Proposals (AIPs) describe standards for Arrow, including operational and governance procedures.
 
 ## Contributing 
-1. First step is to review [AIP-001](https://www.github.com/arrow-air/dao-aips/aip-001.md). 
-2. Then clone the [AIP repository](https://www.github.com/arrow-air/dao-aips/aips) and add your AIP to it. Template for new AIPs can be found [here](https://www.github.com/arrow-air/dao-aips/aip-template.md).
-3. Then submit a Pull Request to Arrow's [AIP repository](https://www.github.com/arrow-air/dao-aips/aips).
+1. First step is to review [AIP-001](https://github.com/Arrow-air/dao-aips/blob/main/AIPs/AIP-001.md). 
+2. Then clone the [AIP repository](https://github.com/Arrow-air/dao-aips/blob/main/AIPs) and add your AIP to it. Template for new AIPs can be found [here](https://github.com/Arrow-air/dao-aips/blob/main/AIP-template.md).
+3. Then submit a Pull Request to Arrow's [AIP repository](https://github.com/Arrow-air/dao-aips/blob/main/AIPs).
 
 ## AIP Types
 AIPs are separated into a different types.
@@ -27,15 +27,15 @@ AIPs are separated into a different types.
 
 **Final** - A Final AIP exists in a state of finality and should only be updated for spelling or grammar corrections and additional context, not for consequential changes. 
 
-**Stagnant** - Any AIP in Draft or Review which is inactive for too long is moved to Stagnant. An AIP may be resurrected by simply requesting this status change from an [AIP Editor](https://www.github.com/arrow-air/dao-aips/aip-003.md).
+**Stagnant** - Any AIP in Draft or Review which is inactive for too long is moved to Stagnant. An AIP may be resurrected by simply requesting this status change from an [AIP Editor](https://github.com/Arrow-air/dao-aips/blob/main/AIPs/AIP-003.md).
 
 **Withdrawn** - The AIP Author(s) have withdrawn the proposed AIP. This state has finality and can no longer be resurrected using this AIP number. If the idea is pursued at a later date it is considered a new proposal.
 
-**Living** - A special status for AIPs that are designed to be continually updated and not reach a state of finality. This includes most notably [AIP-001](https://www.github.com/arrow-air/dao-aips/aip-003.md) (AIP Purpose & Guidelines).
+**Living** - A special status for AIPs that are designed to be continually updated and not reach a state of finality. This includes most notably [AIP-001](https://github.com/Arrow-air/dao-aips/blob/main/AIPs/AIP-003.md) (AIP Purpose & Guidelines).
 
 **Obsolete** - An Obsolete AIP has been replaced, superseded or removed.
 
-![AIP Process Diagram](/assets/about-AIPs/AIP-process-diagram.png).
+![AIP Process Diagram](https://raw.githubusercontent.com/Arrow-air/dao-aips/main/assets/about-AIPs/AIP-process-diagram.png).
 
 Only Final and Living AIPs are eligible for official adoption.
 

@@ -4,10 +4,13 @@ title: <The AIP title is a few words, not a complete sentence>
 description: <Description is one full (short) sentence>
 author: <a comma separated list of the author's or authors' name + GitHub username (in parenthesis), or name and email (in angle brackets).  Example, FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
 discussions-to: <https://dao.arrowair.com/t/aip-###-discussion-full-title-in-link>
-status: Draft
+status: Draft, Stagnant, Withdrawn, Obsolete, Living, Final
 type: <organizational or informational>
 created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
 requires (*optional): <AIP number(s)>
+vote-to: <url>
+vote-date: <date of vote result, in ISO 8601 (yyyy-mm-dd) format>
+vote-result: Passed / Not Passed
 ---
 
 This is the suggested template for new AIPs.

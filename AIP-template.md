@@ -26,7 +26,8 @@ Abstract is a multi-sentence (short paragraph) technical summary. This should be
 The motivation section should describe the "why" of this AIP. What problem does it solve? Why should someone want to implement this standard? What benefit does it provide to the Arrow ecosystem? What use cases does this AIP address?
 
 ## Specification
-The key words “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT”, “SHOULD”, “SHOULD NOT”, “RECOMMENDED”, “MAY”, and “OPTIONAL” in this document are to be interpreted as described in charter.
+
+The key words “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT”, “SHOULD”, “SHOULD NOT”, “RECOMMENDED”, “MAY”, and “OPTIONAL” in this document are to be interpreted as described in [RFC 2119](https://datatracker.ietf.org/doc/html/rfc2119).
 
 The technical specification should describe the syntax and semantics of any new feature.
 

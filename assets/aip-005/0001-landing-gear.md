@@ -6,6 +6,8 @@
 
 `Replacement Log: None`
 
+`Reference: None`
+
 # Project Description
 
 This grant is issued for the need of a landing gear system on the testbed. The need emerged after some of the 3D printed motor mounts broke in two different hard landings, destroying the motors due to broken cables. The landing gear will protect the aircraft systems and airframe during landing, including hard landing cases.

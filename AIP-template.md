@@ -4,10 +4,13 @@ title: <The AIP title is a few words, not a complete sentence>
 description: <Description is one full (short) sentence>
 author: <a comma separated list of the author's or authors' name + GitHub username (in parenthesis), or name and email (in angle brackets).  Example, FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
 discussions-to: <https://dao.arrowair.com/t/aip-###-discussion-full-title-in-link>
-status: Draft
+status: Draft, Stagnant, Withdrawn, Obsolete, Living, Final
 type: <organizational or informational>
 created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
 requires (*optional): <AIP number(s)>
+vote-to: <url>
+vote-date: <date of vote result, in ISO 8601 (yyyy-mm-dd) format>
+vote-result: Passed / Not Passed
 ---
 
 This is the suggested template for new AIPs.
@@ -23,7 +26,8 @@ Abstract is a multi-sentence (short paragraph) technical summary. This should be
 The motivation section should describe the "why" of this AIP. What problem does it solve? Why should someone want to implement this standard? What benefit does it provide to the Arrow ecosystem? What use cases does this AIP address?
 
 ## Specification
-The key words “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT”, “SHOULD”, “SHOULD NOT”, “RECOMMENDED”, “MAY”, and “OPTIONAL” in this document are to be interpreted as described in charter.
+
+The key words “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT”, “SHOULD”, “SHOULD NOT”, “RECOMMENDED”, “MAY”, and “OPTIONAL” in this document are to be interpreted as described in [RFC 2119](https://datatracker.ietf.org/doc/html/rfc2119).
 
 The technical specification should describe the syntax and semantics of any new feature.
 

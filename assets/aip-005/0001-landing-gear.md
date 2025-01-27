@@ -15,8 +15,8 @@ This grant is issued for the need of a landing gear system on the testbed. The n
 # Grant Application Template
 ### Name of Grant
 - What is the work being proposed?
-	- Title of the project
-	- Brief project description
+    - Title of the project
+    - Brief project description
 - Why do you think this work is necessary?
 - Is there any related work this builds upon?
 - Will the results of this project be entirely open source? ([MIT], [GPL], [Apache], [CC BY] license or similar)?

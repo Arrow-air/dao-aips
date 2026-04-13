@@ -23,3 +23,5 @@ ipfs
 permissionless
 kleros
 devkit
+Alperen
+hexacopter

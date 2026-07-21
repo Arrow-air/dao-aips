@@ -8,6 +8,7 @@ Bambu
 Becze
 cooldown
 Coordinape
+counterparty
 devkit
 discordname
 Errrks
@@ -27,6 +28,7 @@ slashable
 Taaki
 Thomasg
 thomasgarrison
+Timeframe
 Tokenomics
 unbonded
 Undeployed
